@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Sempiternal-83.github.io/reference-t60new/sitemap.xml
